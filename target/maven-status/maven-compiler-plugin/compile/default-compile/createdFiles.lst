@@ -1,0 +1,6 @@
+sockets\HttpResponse.class
+sockets\ClientHandler.class
+sockets\Server.class
+DAO\BookDao.class
+DDBB\DatabaseConn.class
+model\Book.class
